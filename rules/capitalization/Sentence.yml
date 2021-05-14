@@ -32,6 +32,7 @@ exceptions:
   - MongoDB
   - REPL
   - Studio
+  - TimescaleDB
   - TypeScript
   - URLs
   - Visual
